@@ -1,6 +1,6 @@
 ## BuildingOnAave 
 
-### This project was part of ChainShot & Alchemy's selectin of courses/bootcamps. Some of the different contracts designed to integrate with the AAVE protocol integrate concepts of lending, borrowing, flashloans, interest bearing lottery's, collaterol pool's, & security techniques, and much more. Many of these contracts require communication with or inheritance from opem zeppelin's standardized token contracts, lending pools, gaetwways, and other contract interfaces. All the contracts compile succesfully with truffle.  A list of the contracts that have been designed are as follows...
+### This project was part of ChaninShot/Alchemy's Bootcamp where a number of contracts were designed to integrate with the AAVE protocol. These contracts integrate concepts of lending, borrowing, flashloans, interest bearing lottery's, collaterol pool's, security techniques, and more. Many of these contracts require inheritance and communicatino with lending pools, gaetwways, open zeppelin's standardized token contracts, and other contract interfaces. All the contracts compile succesfully with truffle.  A list of the contracts that have been designed are as follows...
 
 1. Vanilla Escrow
 2. Aave Ether Escrow
